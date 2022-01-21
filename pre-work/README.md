@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src="https://github.com/HyejunShin/CodePath-iOS/blob/main/pre-work/prework_video.gif" width="100" />
+<img src="https://github.com/HyejunShin/CodePath-iOS/blob/main/pre-work/prework_video.gif" width="300" />
 
 ## Notes
 
