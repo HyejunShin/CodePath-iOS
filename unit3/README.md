@@ -1,6 +1,9 @@
 # Twitter - Part I
 
 This is a basic twitter app to read your tweets.
+[Go to Part 2](https://github.com/HyejunShin/CodePath-iOS/tree/main/unit4)
+
+---
 
 Time spent: 4 hours spent in total
 
