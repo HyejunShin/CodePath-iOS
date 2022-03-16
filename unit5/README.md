@@ -2,6 +2,10 @@
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
 
+[Go to Part 2](https://github.com/HyejunShin/CodePath-iOS/tree/main/unit6)
+
+---
+
 Time spent: 5 hours spent in total
 
 ## User Stories
